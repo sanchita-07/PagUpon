@@ -1,0 +1,315 @@
+/* styling of the footer */
+.whole-footer {
+    background-color: #0f1621;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    bottom: 20rem;
+}
+
+.emai {
+    left: 7rem;
+    top: 3rem;
+}
+
+.wecan {
+    position: relative;
+    bottom: 0rem;
+    left: 6rem;
+    font-size: 1rem;
+    letter-spacing: 1.5px;
+}
+
+.subs {
+    position: relative;
+    left: 6rem;
+    font-size: 1.3rem;
+    bottom: 4rem;
+}
+
+.looking {
+    position: relative;
+    left: 7rem;
+    bottom: 3rem;
+
+}
+
+div.boxx {
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 3rem;
+    background: #1f2939;
+    padding: 8rem;
+    margin: 0 auto;
+    width: 60%;
+    height: 11rem;
+
+}
+
+div.box_content {
+
+    color: white;
+    text-align: center;
+    align-items: center;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+div.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin: 1rem 3rem 3rem 3rem;
+    background-color: white;
+    color: grey;
+    cursor: pointer;
+    border: none;
+    box-sizing: border-box;
+    height: 2rem;
+    width: 50%;
+    top: 1.8rem;
+    right: 0;
+    border-radius: 10rem;
+}
+
+form {
+    position: relative;
+    display: flex;
+    /* border-radius: 10rem; */
+}
+
+form input {
+    flex: 1;
+    /* border-radius:none; */
+    /* outline:none; */
+    border: none;
+    border-radius: .6rem;
+    height: 3.5rem;
+    width: 20rem;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    padding-left: 2rem;
+    font-weight: 50%;
+    /* letter-spacing: 0.5rem; */
+}
+
+form button {
+    position: absolute;
+    background-color: rgb(246, 177, 49);
+    border: none;
+    height: 3rem;
+    padding: .9rem 5rem;
+    border-radius: .5rem;
+    color: white;
+    left: 36.3rem;
+    top: 0.25rem;
+}
+
+/*  */
+
+div.listfull {
+    display: flex;
+    padding-top: 4rem;
+    /* margin:0; */
+    align-items: baseline;
+    justify-content: center;
+
+}
+
+/* div.list{
+    
+    display: block;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    align-items: center;
+  } */
+div.last {
+    color: antiquewhite;
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 0;
+    padding: 2.9rem;
+    outline: none;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    align-items: center;
+    position: relative;
+    left: 3rem;
+}
+
+li.info-footer {
+    display: block;
+    list-style: none;
+    color: rgb(187, 193, 207);
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    align-items: center;
+    font-weight: 1%;
+    position: relative;
+    left: 4.5rem;
+
+}
+
+div.copyright {
+    background-color: rgb(246, 177, 49);
+    width: 100%;
+    height: 10rem;
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding-top: 1rem;
+
+}
+
+p.end {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 3rem;
+    background-color: rgb(246, 177, 49);
+    position: relative;
+    top: 10rem;
+}
+
+.lasta {
+    color: antiquewhite;
+    font-size: 2rem;
+    position: relative;
+    left: 9rem;
+}
+
+.lastc {
+    color: antiquewhite;
+    font-size: 2rem;
+    position: relative;
+    left: 12rem;
+}
+
+.lasts {
+    color: antiquewhite;
+    font-size: 2rem;
+    position: relative;
+    left: 12rem;
+}
+
+.lastse {
+    color: antiquewhite;
+    font-size: 2rem;
+    position: relative;
+    left: 8rem;
+}
+
+.lastin {
+    color: antiquewhite;
+    font-size: 2rem;
+    position: relative;
+    left: 1rem;
+}
+
+.infoau1 {
+    position: relative;
+    top: 4rem;
+    left: 8rem;
+}
+
+pre {
+    color: rgb(187, 193, 207);
+}
+
+.infoau2 {
+    position: relative;
+    left: 3.8rem;
+    top: 7rem;
+}
+
+.infoau3 {
+    position: relative;
+    right: 0rem;
+    top: 10rem;
+}
+
+.infoau4 {
+    position: relative;
+    top: 13rem;
+
+    right: 5.3rem;
+}
+
+.infoau11 {
+    position: relative;
+    top: 4rem;
+    left: 12rem;
+}
+
+.infoau21 {
+    position: relative;
+    top: 7rem;
+    left: 7.4rem;
+}
+
+.infoau31 {
+    position: relative;
+    top: 10rem;
+    left: 0.4rem;
+}
+
+.infoau41 {
+    position: relative;
+    top: 12.7rem;
+    left: -1.5rem;
+}
+
+.infoau111 {
+    position: relative;
+    top: 3.7rem;
+    left: 12.5rem;
+}
+
+.infoau211 {
+    position: relative;
+    top: 6.7rem;
+    left: 8.5rem;
+}
+
+.infoau311 {
+    position: relative;
+    top: 9.7rem;
+    left: 1.5rem;
+
+}
+
+.infoau411 {
+    position: relative;
+    top: 12.7rem;
+    left: -3rem;
+}
+
+.infoau3111 {
+    position: relative;
+    top: 9.7rem;
+    left: -2rem;
+}
+
+.infoau4111 {
+    position: relative;
+    top: 12.7rem;
+    left: -8.2rem;
+}
+
+.infoau1111 {
+    position: relative;
+    top: 3.7rem;
+    left: 8.15rem;
+}
+
+.infoau122 {
+    position: relative;
+    top: 3.7rem;
+    left: 1.15rem;
+}
+
+.infoau222 {
+    position: relative;
+    top: 6.7rem;
+    left: -8.5rem;
+}

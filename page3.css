@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@600&display=swap');
+
+div .whole-pg3 {
+    font-family: "Inter Tight,san-serif";
+    height: 4rem;
+    width: 4rem;
+}
+
+div .upper {
+    display: flex;
+}
+
+div .written {
+    float: left;
+}
+
+h.heading {
+    font-size: 2.5rem;
+    color: white;
+    position: relative;
+    left: 4rem;
+    top: 2rem;
+}
+
+p.sales {
+    font-size: 4rem;
+    color: white;
+    white-space: nowrap;
+    position: relative;
+    left: 4rem;
+    top: 5.438rem;
+}
+
+div .Highlight {
+    color: rgb(237, 152, 42);
+}
+
+p.content {
+    font-size: 1.2rem;
+    text-align: left;
+    color: white;
+    position: relative;
+    left: 4rem;
+    top: 7.75rem;
+}
+
+div .btn {
+    margin-left: -38rem;
+    margin-top: 25rem;
+    margin-right: 47rem;
+    width: 10.625rem;
+    height: 3.125rem;
+    border: none;
+    color: white;
+    background-color: rgb(237, 152, 42);
+    border-radius: 0.1875rem;
+    box-shadow: inset 0 0 0 0#da9226;
+    font-size: 1 rem;
+    outline: none;
+    position: relative;
+    left: 1.125rem;
+    bottom: 0.688rem;
+}
+
+div .btn:hover {
+    box-shadow: inset 7.5rem 0 0 0 0#da9226;
+    cursor: pointer;
+    background-color: rgba(132, 147, 168, 1);
+    color: black;
+}
+
+div .image-pg3 {
+    display: flex;
+    padding: 2%;
+    position: relative;
+    right: 9.5rem;
+}
+
+.below {
+    display: flex;
+    padding: 1%;
+    justify-content: space-around;
+}
